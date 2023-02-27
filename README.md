@@ -43,15 +43,19 @@
 
         "uniques": [
 
-            "Unique",     
+            "Unique","carnicero",
+            "Unique","THE Munster",
+            "Unique","delivers of home",
+            
+           
 
         ],
 
         "cities": [
 
-            "Name",
+            "Name","granja de carne",
 
-            "Name",
+            "Name", "cocina de Max",
 
      "Name",
 
