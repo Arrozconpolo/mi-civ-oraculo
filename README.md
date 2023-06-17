@@ -43,9 +43,7 @@
 
         "uniques": [
 
-            "Unique","carnicero",
-            "Unique","THE Munster",
-            "Unique","delivers of home",
+    "Earn [200]% of killed [Military] unit's [Strength] as [Science]"
             
            
 
